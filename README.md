@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Rob
 
-<img src="GitHub Profile pic(1).png" />
+<img src="https://github.com/bpk68/bpk68/blob/master/GitHub%20Profile%20pic(1).png" />
 
 ## Tell me a little about yourself
 
