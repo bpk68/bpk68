@@ -1,5 +1,7 @@
 # Hi there 👋 I'm Rob
 
+<img src="GitHub Profile pic(1).png" />
+
 ## Tell me a little about yourself
 
 Well hi. I'm Rob Kendal, a UI engineer based in ~~sunny~~ Yorkshire. I build a variety of things for a variety of people using fancy tools, frameworks, platforms and libraries including:
