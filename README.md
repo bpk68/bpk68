@@ -30,6 +30,12 @@ I have a bunch of different repos on here, but the ones you might find most help
 Yep and yep. You can read my latest articles below.
 
 <!-- BLOG-POST-LIST:START -->
+- [30+ Helpful tools, apps and websites](https://robkendal.co.uk/blog/2020-06-12-30-helpful-tools-apps-and-websites/)
+- [GitHub activity graphs are meaningless](https://robkendal.co.uk/blog/2020-05-29-github-activity-graphs-are-meaningless/)
+- [Saving text to a client-side file using vanilla JS](https://robkendal.co.uk/blog/2020-04-17-saving-text-to-client-side-file-using-vanilla-js/)
+- [Replacing React's Redux library with the useReducer Hook](https://robkendal.co.uk/blog/2020-04-07-replacing-reacts-redux-library-with-usereducer-hook/)
+- [Funky text backgrounds with background-clip CSS](https://robkendal.co.uk/blog/2020-04-02-funky-text-backgrounds-with-background-clip-css/)
+- [ Creating a React code editor and syntax highlighter](https://robkendal.co.uk/blog/2020-02-20-creating-a-react-code-editor-and-syntax-highlighter/)
 <!-- BLOG-POST-LIST:END -->
  
 
