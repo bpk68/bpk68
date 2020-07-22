@@ -24,6 +24,13 @@ I have a bunch of different repos on here, but the ones you might find most help
 - [React Query Builder](https://github.com/bpk68/react-visual-query-builder)
 - [Google Sheets Reader](https://github.com/bpk68/g-sheets-api)
 - [Node-based API server starter kit](https://github.com/bpk68/api-server-starter)
+
+## Do you have any articles to read?
+
+Yep and yep. You can read my latest articles below.
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
  
 
 ## Hmm...I still want to know more
