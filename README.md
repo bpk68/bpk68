@@ -35,7 +35,7 @@ Yep and yep. You can read my latest articles below.
 - [Saving text to a client-side file using vanilla JS](https://robkendal.co.uk/blog/2020-04-17-saving-text-to-client-side-file-using-vanilla-js/)
 - [Replacing React's Redux library with the useReducer Hook](https://robkendal.co.uk/blog/2020-04-07-replacing-reacts-redux-library-with-usereducer-hook/)
 - [Funky text backgrounds with background-clip CSS](https://robkendal.co.uk/blog/2020-04-02-funky-text-backgrounds-with-background-clip-css/)
-- [ Creating a React code editor and syntax highlighter](https://robkendal.co.uk/blog/2020-02-20-creating-a-react-code-editor-and-syntax-highlighter/)
+- [Creating a React code editor and syntax highlighter](https://robkendal.co.uk/blog/2020-02-20-creating-a-react-code-editor-and-syntax-highlighter/)
 <!-- BLOG-POST-LIST:END -->
  
 
