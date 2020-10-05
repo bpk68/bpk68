@@ -30,12 +30,12 @@ I have a bunch of different repos on here, but the ones you might find most help
 Yep and yep. You can read my latest articles below.
 
 <!-- BLOG-POST-LIST:START -->
+- [Create a Next.js RSS feed for your static website](https://robkendal.co.uk/blog/create-a-static-website-rss-feed-with-next.js)
 - [Using WordPress as a headless CMS with Next.js](https://robkendal.co.uk/blog/using-wordpress-as-a-headless-cms-with-next.js)
 - [Configuring WordPress as a headless CMS with Next.js](https://robkendal.co.uk/blog/configuring-wordpress-as-a-headless-cms-with-next.js)
 - [30+ Helpful tools, apps and websites](https://robkendal.co.uk/blog/2020-06-12-30-helpful-tools-apps-and-websites)
 - [GitHub activity graphs are meaningless](https://robkendal.co.uk/blog/2020-05-29-github-activity-graphs-are-meaningless)
 - [Saving text to a client-side file using vanilla JS](https://robkendal.co.uk/blog/2020-04-17-saving-text-to-client-side-file-using-vanilla-js)
-- [Replacing React's Redux library with the useReducer Hook](https://robkendal.co.uk/blog/2020-04-07-replacing-reacts-redux-library-with-usereducer-hook)
 <!-- BLOG-POST-LIST:END -->
  
 
