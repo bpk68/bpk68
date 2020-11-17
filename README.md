@@ -4,7 +4,7 @@
 
 ## Tell me a little about yourself
 
-Well hi. I'm Rob Kendal, a UI engineer based in ~~sunny~~ Yorkshire. I build a variety of things for a variety of people using fancy tools, frameworks, platforms and libraries including:
+Well hi. I'm Rob Kendal, a freelance front end developer and UI engineer based in ~~sunny~~ Yorkshire. I build a variety of things for a variety of people using fancy tools, frameworks, platforms and libraries including:
 
  - React
  - JavaScript
@@ -15,7 +15,17 @@ Well hi. I'm Rob Kendal, a UI engineer based in ~~sunny~~ Yorkshire. I build a v
  
  You can always take a look at [my helpful articles on my website](https://robkendal.co.uk).
  
-### Do you have any standout projects?
+## What else do you do?
+
+I try to spend as much time as I can helping the dev community by:
+
+- Writing [helpful articles on web development](https://robkendal.co.uk/blog),
+- Publishing books such as my FREE title, [Aspire to Hired!](https://gumroad.com/l/from-aspire-to-hired), all about starting to code and landing a dev job,
+- Running a YouTube channel, [Coding with Rob](https://www.youtube.com/channel/UCAyZX8WEpkQpi2dOtpGV22g),
+- Publishing a podcast, [The Front End](https://thefrontendpodcast.site/)
+ 
+ 
+## Do you have any standout projects?
 
 Sure do, very glad you asked! ☺️
 
