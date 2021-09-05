@@ -40,12 +40,12 @@ I have a bunch of different repos on here, but the ones you might find most help
 Yep and yep. You can read my latest articles below.
 
 <!-- BLOG-POST-LIST:START -->
+- [How to use contact forms with headless WordPress and Next.js](https://robkendal.co.uk/blog/2021-09-03-sending-contact-forms-with-next-js-and-wordpress)
 - [React, Angular and Vue compared, which should you learn in 2021?](https://robkendal.co.uk/blog/2021-06-07-should-you-learn-react-angular-or-vue)
 - [Signs to lookout for if you suspect you've ended up in the wrong career](https://robkendal.co.uk/blog/signs-to-lookout-for-if-you-suspect-you-ve-ended-up-in-the-wrong-career)
 - [Things I wish I'd known as a junior developer](https://robkendal.co.uk/blog/things-i-wish-i-d-known-as-a-junior-developer)
 - [Create a Next.js RSS feed for your static website](https://robkendal.co.uk/blog/create-a-static-website-rss-feed-with-next.js)
 - [Using WordPress as a headless CMS with Next.js](https://robkendal.co.uk/blog/using-wordpress-as-a-headless-cms-with-next.js)
-- [Configuring WordPress as a headless CMS with Next.js](https://robkendal.co.uk/blog/configuring-wordpress-as-a-headless-cms-with-next.js)
 <!-- BLOG-POST-LIST:END -->
  
 
