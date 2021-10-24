@@ -1,19 +1,27 @@
 # Hi there 👋 I'm Rob
 
-<img src="https://github.com/bpk68/bpk68/blob/master/GitHub%20Profile%20pic(1).png" />
+<img src="https://github.com/bpk68/bpk68/blob/master/gh-profile-pic.png" />
 
 ## Tell me a little about yourself
 
 Well hi. I'm Rob Kendal, a freelance front end developer and UI engineer based in ~~sunny~~ Yorkshire. I build a variety of things for a variety of people using fancy tools, frameworks, platforms and libraries including:
 
- - React
+ - React/Vue
  - JavaScript
- - Gatsby
+ - Next.js
+ - Nuxt.js
  - HTML/CSS
  - Node
+ - Serverless stacks
  - ...and a ton of other bits and bobs
  
  You can always take a look at [my helpful articles on my website](https://robkendal.co.uk).
+ 
+## Tell me about the freelancing
+
+I run [Ark Labs](https://ark-labs.co.uk), a small-but-mighty freelance development team specialising in Jamstack development and web apps built on top of headless content management systems, such as GraphCMS, Contentful, or even WordPress (yes, it's a good choice as a headless CMS!). 
+
+I'm also a Shopify partner so I love to help clients get their business online by building custom Shopify themes, apps, and managing their ecommerce websites.
  
 ## What else do you do?
 
