@@ -1,15 +1,15 @@
 # Hi there 👋 I'm Rob
 
-<img src="https://github.com/bpk68/bpk68/blob/master/gh-profile-pic.png" />
+<img src="https://github.com/bpk68/bpk68/blob/master/github-profile-pic-k-tech.png" />
 
 ## Tell me a little about yourself
 
-Well hi. I'm Rob Kendal, a freelance front end developer and UI engineer based in ~~sunny~~ Yorkshire. I build a variety of things for a variety of people using fancy tools, frameworks, platforms and libraries including:
+Well hi. I'm Rob Kendal, a freelance full-stack developer and UI engineer based in ~~sunny~~ Yorkshire. I build a variety of things for a variety of people using fancy tools, frameworks, platforms and libraries including:
 
- - React/Vue
+ - React
  - JavaScript
  - Next.js
- - Nuxt.js
+ - Astro
  - HTML/CSS
  - Node
  - Serverless stacks
@@ -19,7 +19,7 @@ Well hi. I'm Rob Kendal, a freelance front end developer and UI engineer based i
  
 ## Tell me about the freelancing
 
-I run [Ark Labs](https://ark-labs.co.uk), a small-but-mighty freelance development team specialising in Jamstack development and web apps built on top of headless content management systems, such as GraphCMS, Contentful, or even WordPress (yes, it's a good choice as a headless CMS!). 
+I run [K-Tech](https://robkendal.co.uk) (my trading name), a small-but-mighty freelance development team specialising in Jamstack development and web apps built with React and on top of headless content management systems, such as GraphCMS, Astro JS, and Storyblock to name a few.
 
 I'm also a Shopify partner so I love to help clients get their business online by building custom Shopify themes, apps, and managing their ecommerce websites.
  
@@ -27,10 +27,10 @@ I'm also a Shopify partner so I love to help clients get their business online b
 
 I try to spend as much time as I can helping the dev community by:
 
-- Writing [helpful articles on web development](https://robkendal.co.uk/blog),
-- Publishing books such as my FREE title, [Aspire to Hired!](https://gumroad.com/l/from-aspire-to-hired), all about starting to code and landing a dev job,
-- Running a YouTube channel, [Coding with Rob](https://www.youtube.com/channel/UCAyZX8WEpkQpi2dOtpGV22g),
-- Publishing a podcast, [The Front End](https://thefrontendpodcast.site/)
+- Writing [helpful articles on web development](https://robkendal.co.uk/blog).
+- Producing a [Beginner's Guide to React](https://www.newline.co/courses/beginners-guide-to-real-world-react), a self-study online course dedicated to helping beginners start out with React.
+- Publishing books such as my FREE title, [Aspire to Hired!](https://gumroad.com/l/from-aspire-to-hired), all about starting to code and landing a dev job.
+- Publishing a podcast, [The Front End](https://thefrontendpodcast.site/).
  
  
 ## Do you have any standout projects?
@@ -39,6 +39,7 @@ Sure do, very glad you asked! ☺️
 
 I have a bunch of different repos on here, but the ones you might find most helpful/interesting include:
 
+- [Remote Dev Jobs](https://remotedevjobs.co.uk)
 - [React Query Builder](https://github.com/bpk68/react-visual-query-builder)
 - [Google Sheets Reader](https://github.com/bpk68/g-sheets-api)
 - [Node-based API server starter kit](https://github.com/bpk68/api-server-starter)
