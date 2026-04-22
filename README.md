@@ -4,10 +4,11 @@
 
 ## Tell me a little about yourself
 
-Well hi. I'm Rob Kendal, a freelance full-stack developer and UI engineer based in ~~sunny~~ Yorkshire. I build a variety of things for a variety of people using fancy tools, frameworks, platforms and libraries including:
+Well hi. I'm Rob Kendal, a full-stack, UI software engineer based in ~~sunny~~ Yorkshire. I build a variety of things for a variety of people using fancy tools, frameworks, platforms and libraries including:
 
+ - Svelte, SvelteKit,
  - React
- - JavaScript
+ - JavaScript/TypeScript
  - Next.js
  - Astro
  - HTML/CSS
@@ -19,9 +20,7 @@ Well hi. I'm Rob Kendal, a freelance full-stack developer and UI engineer based 
  
 ## Tell me about the freelancing
 
-I run [K-Tech](https://robkendal.co.uk) (my trading name), a small-but-mighty freelance development team specialising in Jamstack development and web apps built with React and on top of headless content management systems, such as GraphCMS, Astro JS, and Storyblock to name a few.
-
-I'm also a Shopify partner so I love to help clients get their business online by building custom Shopify themes, apps, and managing their ecommerce websites.
+I have, in the past, run [K-Tech](https://robkendal.co.uk) a small-but-mighty freelance development team specialising in Jamstack development and web apps built with Svelte or React and on top of headless content management systems, such as Storyblock. I also build the [Changemaker Platform](https://changemakerapp.com) for a client, which helps agencies to manage their change request processes.
  
 ## What else do you do?
 
@@ -32,7 +31,6 @@ I try to spend as much time as I can helping the dev community by:
 - Publishing books such as my FREE title, [Aspire to Hired!](https://gumroad.com/l/from-aspire-to-hired), all about starting to code and landing a dev job.
 - Publishing a podcast, [The Front End](https://thefrontendpodcast.site/).
  
- 
 ## Do you have any standout projects?
 
 Sure do, very glad you asked! ☺️
@@ -40,6 +38,7 @@ Sure do, very glad you asked! ☺️
 I have a bunch of different repos on here, but the ones you might find most helpful/interesting include:
 
 - [Remote Dev Jobs](https://remotedevjobs.uk)
+- [PetLedger](https://petledger.co.uk)
 - [React Query Builder](https://github.com/bpk68/react-visual-query-builder)
 - [Google Sheets Reader](https://github.com/bpk68/g-sheets-api)
 - [Node-based API server starter kit](https://github.com/bpk68/api-server-starter)
@@ -57,7 +56,6 @@ Yep and yep. You can read my latest articles below.
 - [Using WordPress as a headless CMS with Next.js](https://robkendal.co.uk/blog/using-wordpress-as-a-headless-cms-with-next.js)
 <!-- BLOG-POST-LIST:END -->
  
-
 ## Hmm...I still want to know more
 
 Sure thing; you got it!
@@ -74,9 +72,9 @@ That was it for me, the defining moment where I knew I wanted to develop all the
 
 More recently, I co-founded a creative marketing agency and managed HubSpot campaigns for some local business heroes as well as some bigger players, such as North Yorkshire County Council. We even won some awards for our work!
 
-Right now, I'm very excited to be working on a range of projects involving React and Node JS. I enjoy blogging, presenting at events (and sharing as much knowledge as I can), and learning something new every day.
+Right now, I'm very excited to be working on a range of projects involving Svelte, React, and Node JS. I enjoy blogging, presenting at events (and sharing as much knowledge as I can), and learning something new every day.
 
-I also run a web development podcast called [The Front End](https://thefrontendpodcast.site/) which is available on [Anchor podcasts](https://anchor.fm/the-front-end).
+I also run a web development podcast called [The Front End](https://thefrontendpodcast.site/) which is available on [Spotify (formerly Anchor) podcasts](https://anchor.fm/the-front-end).
 
 ## Anything else?
 
