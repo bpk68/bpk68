@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Rob
 
-<img src="https://github.com/bpk68/bpk68/blob/master/github-profile-pic-k-tech.png" />
+<img src="https://github.com/bpk68/bpk68/blob/master/github-profile-pic-k-tech_apr_26.png" />
 
 ## Tell me a little about yourself
 
